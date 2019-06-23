@@ -7,6 +7,8 @@ page_sections:
   block: header-1
   navigation:
   - link: "#"
+    link_text: VND.cash
+  - link: "#"
     link_text: Contact
   - link: "#"
     link_text: Subscribe
