@@ -29,5 +29,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Copyright to the future
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
