@@ -29,6 +29,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Copyright to the future
-published: false
 
 ---
