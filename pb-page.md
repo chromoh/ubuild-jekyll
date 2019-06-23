@@ -7,24 +7,24 @@ page_sections:
   block: header-1
   navigation:
   - link: "#"
-    link_text: Link2
+    link_text: Contact
   - link: "#"
-    link_text: Link1
+    link_text: Subscribe
   logo: ''
 - template: simple-header
   block: header-3
-  logo: "/uploads/2018/06/21/forestry-symbol.svg"
+  logo: "/uploads/2019/06/23/vnd338348-29.jpg"
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: Lorem mother fucking ipsum.
-    headline: The First
+    content: ''
+    headline: 1 VNDC
   col_2:
-    headline: The Next
-    content: Foo to the bar to the bar to the baz.
+    headline: 1 VND
+    content: ''
 - template: signup-bar
   block: cta-bar
-  content: Sign up for some free money
+  content: Subscribe to get updates about VND.cash or to get in touch regarding partnerships.
   email_recipient: chromo.huynh@gmail.com
 - template: simple-footer
   block: footer-1
