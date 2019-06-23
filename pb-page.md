@@ -12,7 +12,7 @@ page_sections:
     link_text: Contact
   - link: "#"
     link_text: Subscribe
-  logo: ''
+  logo: "/uploads/2019/06/23/vnd338348-29.jpg"
 - template: simple-header
   block: header-3
   logo: "/uploads/2019/06/23/vnd338348-29.jpg"
