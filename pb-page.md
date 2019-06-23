@@ -14,14 +14,14 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2019/06/23/vnd338348-29.jpg"
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: ''
-    headline: 1 VNDC
-  col_2:
-    headline: 1 VND
-    content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 1 VNDC = 1 VND
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: detail-content
   block: text-1
   content: <p>VND.cash is the first attested crypto-asset tied to the value of the
