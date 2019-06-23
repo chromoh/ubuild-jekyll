@@ -5,3 +5,4 @@ email_recipient: ''
 published: false
 
 ---
+Lorem ipsum.
