@@ -12,10 +12,10 @@ page_sections:
     link_text: Contact
   - link: "#"
     link_text: Subscribe
-  logo: "/uploads/2019/07/01/vnd cash transparent bg.png"
+  logo: ''
 - template: simple-header
   block: header-3
-  logo: "/uploads/2019/06/23/vnd338348-29.jpg"
+  logo: "/uploads/2019/07/01/vnd cash transparent bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
