@@ -13,6 +13,18 @@ page_sections:
   - link: "#"
     link_text: Subscribe
   logo: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2019/07/01/vnd cash transparent bg.png"
+  headline: 1 VNDC = 1 VND
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-header
   block: header-3
   logo: "/uploads/2019/07/01/vnd cash transparent bg.png"
